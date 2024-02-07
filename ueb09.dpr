@@ -5,11 +5,6 @@
   @date: 08-01-2024
 }
 
-// TODO Kommentare / Programmkopf etc.
-// TODO isValidInput macht effektiv alles. Hier ist mehr Modularisierung nötig.
-// TODO Es darf keine Hinweise geben
-// TODO Entfernen muss (ohne Absturz) funktionieren
-
 {$APPTYPE CONSOLE}
 {$R+,Q+,X-}
 
