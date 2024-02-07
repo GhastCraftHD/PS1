@@ -5,10 +5,6 @@
   @date 18-12-2023
 *)
 
-//TO-DO Schleife aus dem Hauptprogramm auslagern
-//TO-DO Beheben, dass das Programm abstürtzt, wenn man bei den Attributen einen leeren String eingibt
-//TO-TO readAll zu einer Prozedur ändern
-
 {$APPTYPE CONSOLE}
 {$R+,Q+,X-}
 
